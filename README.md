@@ -1,1 +1,2 @@
-# my_arrow_game
+# my_arrow_paty
+rule book for arrow party
